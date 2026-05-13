@@ -10,7 +10,7 @@ A sleek, modern, and responsive game hub containing three classic mini-games. Bu
 
 ## 🚀 Play Online
 
-You can play the game live here: [https://yourusername.github.io/repo-name/](https://yourusername.github.io/repo-name/)
+You can play the game live here: [https://timmywwe13-hub.github.io/all-in-one/
 *(Note: Replace this link with your actual GitHub Pages URL after deployment)*
 
 ## 📂 Project Structure
